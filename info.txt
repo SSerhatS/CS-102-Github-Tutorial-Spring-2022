@@ -1,3 +1,69 @@
 Serhat Yılmaz - 22002537 - https://github.com/SSerhatS
 
 Don't Starve
+
+PS C:\GitHub\CS 102 Github Tutorial – Spring 2022> git log
+commit 62608d36aca516014a12e7bfb68529e8c7350a17 (HEAD -> main, origin/main)
+Merge: 2e197ed 419d0fd
+Author: Serhat Yılmaz <91696123+SSerhatS@users.noreply.github.com>
+Date:   Thu Feb 10 10:36:19 2022 +0300
+
+    Merge pull request #1 from SSerhatS/new_information
+
+    Favourite Video Game added
+
+commit 419d0fd653dcde3fdd0056ba29a5e419c1a0a213 (origin/new_information, new_information)
+Author: Serhat Yılmaz <serhaty@ug.bilkent.edu.tr>
+:...skipping...
+commit 62608d36aca516014a12e7bfb68529e8c7350a17 (HEAD -> main, origin/main)
+Merge: 2e197ed 419d0fd
+Author: Serhat Yılmaz <91696123+SSerhatS@users.noreply.github.com>
+Date:   Thu Feb 10 10:36:19 2022 +0300
+
+    Merge pull request #1 from SSerhatS/new_information
+    
+    Favourite Video Game added
+
+commit 419d0fd653dcde3fdd0056ba29a5e419c1a0a213 (origin/new_information, new_information)
+Author: Serhat Yılmaz <serhaty@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:33:45 2022 +0300
+
+    Favourite Video Game added
+
+commit 2e197ed34dc7d321087d88f36b49aff57f50231c
+Author: Serhat Yılmaz <serhaty@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:27:46 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit 630e8fe67429aeb3b58ec36a22fc61c594bd50a1
+Author: Serhat Yılmaz <serhaty@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:22:46 2022 +0300
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
